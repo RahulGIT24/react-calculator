@@ -1,0 +1,18 @@
+* {
+    user-select: none;
+}
+
+.btn-orange,
+.btn-green,
+.btn-yellow {
+    cursor: pointer;
+}
+
+.display {
+    overflow: auto;
+}
+
+.display2 {
+    overflow: auto;
+    height: 12vh;
+}
